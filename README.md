@@ -2,7 +2,10 @@
 
 I'm currently studying computer science at Bellevue College 🎓 with a focus in python 🐍
 
-Skills: Python, HTML, CSS
+## Skills: 
+- Python 🐍
+- HTML 🌐
+- CSS ✒
  
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: Email! 
