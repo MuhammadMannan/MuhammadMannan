@@ -7,8 +7,8 @@ I'm currently studying computer science at Bellevue College 🎓 with a focus in
 - HTML 🌐
 - CSS ✒
  ## What i'm up to
-- 🌱 I’m currently learning Python 
-- 📫 How to reach me: Email! 
+- 🌱 I’m currently learning about OOJ in python 
+- 📫 How to reach me: E-mail! 
 - ⚡ Fun fact: I've traveled to over 10 countries, but I've never been on a roller coaster.
 
 
