@@ -3,10 +3,9 @@
 I'm currently studying computer science at Bellevue College 🎓 with a focus in python 🐍
 
 Skills: Python, HTML, CSS
-
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning Python 
-- 📫 How to reach me: email me! 
+- 📫 How to reach me: Email! 
 - ⚡ Fun fact: I've traveled to over 10 countries, but I've never been on a roller coaster.
 
 
