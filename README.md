@@ -10,4 +10,4 @@ Skills: Python, HTML, CSS
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadMannan&theme=github_dark&show_icons=true align=center)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadMannan&theme=github_dark&show_icons=true&align=center)
