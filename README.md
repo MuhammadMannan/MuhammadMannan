@@ -1,9 +1,10 @@
 # Hi there 👋, my name is Muhammad
 
-I'm currently studying computer science at Bellevue College 🎓 with a focus in python 🐍
+I'm currently studying computer science at Bellevue College 🎓 with a focus in data analysis 📊📈
 
 ## Skills: 
 - Python 🐍
+- SQL 👨🏻‍💻
 - HTML 🌐
 - CSS ✒
  ## What i'm up to
