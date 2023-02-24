@@ -1,9 +1,10 @@
 # Hi there 👋, my name is Muhammad
 
-I'm currently studying computer science at University of Washington 🎓 with a focus in data analysis 📊📈
+Currently working on a research project at the Univeristy of Washington Bothell. Using flutter and firebase 🔥 to build an app for a GIS (geographic information systems) research team to keep track of invasive plant 🌱 species in Washington state national parks.  
 
 ## Skills: 
 - Python 🐍
+- R 📊
 - C++ 👨🏻‍💻
 - SQL 📊
 - HTML 🌐
