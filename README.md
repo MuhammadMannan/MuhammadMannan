@@ -8,9 +8,11 @@ Currently working on a research project at the Univeristy of Washington Bothell.
 - C++ 👨🏻‍💻
 - SQL 📊
 - HTML 🌐
+- Flutter (Dart) 🎯
+- Firebase 🔥
 - CSS ✒
  ## What i'm up to
-- 🌱 I’m currently learning about Data Analytics and SQL along side my Data Structures and Algorithms class
+- 🌱 I’m currently learning about Data Analytics and SQL along side my Data Structures and Algorithms class. I am also working on developping an app for a research intern software development position at my University.
 - 📫 How to reach me: E-mail! 
 - ⚡ Fun fact: I've traveled to over 10 countries, but I've never been on a roller coaster.
 
