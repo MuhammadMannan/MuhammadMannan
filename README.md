@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mannan</h1>
 <h3 align="center">A Data Analyst and Computer Science Student at the University of Washington</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadmannan" alt="muhammadmannan" /></a> </p>
-
 - 🔭 I’m currently working on [GIS/MTV Research Project Intern](https://github.com/MuhammadMannan/GIS2023_RESEARCH_PROJECT)
 
 - 🌱 I’m currently learning **Flutter and Data Analysis**
