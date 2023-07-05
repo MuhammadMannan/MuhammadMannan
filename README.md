@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mannan</h1>
 <h3 align="center">A Data Analyst and Computer Science Student at the University of Washington</h3>
 
-- 🔭 I’m currently working on [GIS/MTV Research Project Intern](https://github.com/MuhammadMannan/GIS2023_RESEARCH_PROJECT)
+- 🔭 I’m currently working on [DayFlow - Task tracking and journaling app](https://github.com/MuhammadMannan/DayFlow)
 
 - 🌱 I’m currently learning **Flutter and Data Analysis**
 
