@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammadMannan](https://github.com/MuhammadMannan)
 
-- 💬 Ask me about **Python, Supabase, SQL, Tableau**
+- 💬 Ask me about **Python, Supabase, SQL, Tableau, Firebase, Flutter, Figma**
 
 - 📫 How to reach me: **usman.mannan@hotmail.com**
 
